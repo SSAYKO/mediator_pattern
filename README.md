@@ -40,3 +40,20 @@ El programa se ejecuta utilizando el archivo `run.py`. A continuación, se prese
     "email": "joshdun123@example.com"
   }
 }
+```
+
+#### Cancelar una Reserva
+
+- **Método**: POST  
+- **URL**: [http://localhost:5000/cancel_booking](http://localhost:5000/cancel_booking)
+
+**Cuerpo del Request**:
+```json
+{
+  "booking_id": "B001",
+  "user_data": {
+    "name": "Josh Dun",
+    "email": "joshdun123@example.com"
+  }
+}
+```
