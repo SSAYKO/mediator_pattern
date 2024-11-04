@@ -10,9 +10,9 @@ El patrón Mediator promueve la comunicación entre objetos sin que estos tengan
 
 A continuación se detalla la estructura del proyecto y se proporcionan enlaces a carpetas específicas:
 
-- **[app](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/app)**: Inicialización de servicios y rutas de la API.
-- **[mediator](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/mediator)**: Contiene toda la lógica del patrón Mediator a implementar.
-- **[services](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/services)**: Contiene los diferentes servicios, incluyendo inventario, pagos, notificaciones y reservas.
+- **[app](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/hotel_booking_api/app)**: Inicialización de servicios y rutas de la API.
+- **[mediator](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/hotel_booking_api/mediator)**: Contiene toda la lógica del patrón Mediator a implementar.
+- **[services](https://github.com/SsaylemMurillo/mediator_pattern/tree/main/hotel_booking_api/services)**: Contiene los diferentes servicios, incluyendo inventario, pagos, notificaciones y reservas.
 
 ## Instalación
 
