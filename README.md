@@ -16,10 +16,10 @@ A continuación se detalla la estructura del proyecto y se proporcionan enlaces 
 
 ## Instalación
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/SsaylemMurillo/mediator_pattern.git
-
+Clona este repositorio:
+```bash
+git clone https://github.com/SsaylemMurillo/mediator_pattern.git
+```
 ## Ejecución del Programa
 
 El programa se ejecuta utilizando el archivo `run.py`. Puedes ver en la consola informacion importante que proporciona el mediator y cada servicio que es ejecutado. Los servicios proporcionan salidas en la consola de la siguiente forma: "--- texto --- ". Mientras que cuando el mediator lo hace, tiene esta estructura: "Mediator: texto".
