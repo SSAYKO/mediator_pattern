@@ -19,3 +19,24 @@ A continuación se detalla la estructura del proyecto y se proporcionan enlaces 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/SsaylemMurillo/mediator_pattern.git
+
+## Ejecución del Programa
+
+El programa se ejecuta utilizando el archivo `run.py`. A continuación, se presentan algunas rutas que puedes utilizar para probar la API:
+
+### Rutas para Probar
+
+#### Crear una Reserva
+
+- **Método**: POST  
+- **URL**: [http://localhost:5000/create_booking](http://localhost:5000/create_booking)
+
+**Cuerpo del Request**:
+```json
+{
+  "booking_id": "B001",
+  "user_data": {
+    "name": "Josh Dun",
+    "email": "joshdun123@example.com"
+  }
+}
