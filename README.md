@@ -22,7 +22,9 @@ A continuación se detalla la estructura del proyecto y se proporcionan enlaces 
 
 ## Ejecución del Programa
 
-El programa se ejecuta utilizando el archivo `run.py`. A continuación, se presentan algunas rutas que puedes utilizar para probar la API:
+El programa se ejecuta utilizando el archivo `run.py`. Puedes ver en la consola informacion importante que proporciona el mediator y cada servicio que es ejecutado. Los servicios proporcionan salidas en la consola de la siguiente forma: "--- texto --- ". Mientras que cuando el mediator lo hace, tiene esta estructura: "Mediator: texto".
+
+A continuación, se presentan algunas rutas que puedes utilizar para probar la API:
 
 ### Rutas para Probar
 
